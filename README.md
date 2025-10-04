@@ -1,2 +1,2 @@
 # anscombe-visualization
-jupyter notebook to visualized anscombe's quartet and provide stats
+jupyter notebook to visualize anscombe's quartet and provide stats
