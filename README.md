@@ -1,4 +1,4 @@
-# anscombe-visualization
+# read this (important info)
 jupyter notebook to visualize anscombe's quartet and provide stats
 
 Anscombe's Quartet Data Visualization.ipynb is the first version of the notebook commited to this repo
