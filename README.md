@@ -1,8 +1,5 @@
-# read this (important info)
+# Read Me
 jupyter notebook to visualize anscombe's quartet and provide stats
 
-Anscombe's Quartet Data Visualization.ipynb is the first version of the notebook commited to this repo
-
-anscombe_eda.ipynb is the latest version of the notebook
-
-I accidently created a new notebook in this repository while trying to figure out how to use git from the command line
+Link to Interactive Plot
+https://rayanbashir.github.io/anscombe-visualization/anscombe_plotly.html
